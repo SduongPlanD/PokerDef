@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 2265105403
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: buttons/pressed
+      Dependencies: {}
+    Info_1:
+      Name: buttons/unpressed
+      Dependencies: {}
+    Info_2:
+      Name: cardsall
+      Dependencies: {}

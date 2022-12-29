@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 2642829153
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6694d61b8e5e07dce3add432f14ed389
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Cards/S13.png
+- Assets/Cards/D7.png
+- Assets/Cards/C10.png
+- Assets/Cards/C9.png
+- Assets/Cards/C12.png
+- Assets/Cards/C7.png
+- Assets/Cards/C11.png
+- Assets/Cards/S1.png
+- Assets/Cards/D11.png
+- Assets/Cards/H1.png
+- Assets/Cards/S7.png
+- Assets/Cards/H7.png
+- Assets/Cards/C1.png
+- Assets/Cards/C8.png
+- Assets/Cards/D12.png
+- Assets/Cards/H13.png
+- Assets/Cards/S11.png
+- Assets/Cards/D9.png
+- Assets/Cards/H10.png
+- Assets/Cards/H8.png
+- Assets/Cards/S12.png
+- Assets/Cards/S9.png
+- Assets/Cards/S10.png
+- Assets/Cards/S8.png
+- Assets/Cards/C3.png
+- Assets/Cards/Joker_Monochrome.png
+- Assets/Cards/D13.png
+- Assets/Cards/D1.png
+- Assets/Cards/H11.png
+- Assets/Cards/BackRed.png
+- Assets/Cards/C13.png
+- Assets/Cards/H9.png
+- Assets/Cards/D8.png
+- Assets/Cards/D10.png
+- Assets/Cards/Joker_Color.png
+- Assets/Cards/H12.png
+Dependencies: []
